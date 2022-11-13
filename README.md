@@ -1,4 +1,5 @@
-# Polkadot---small-intro
+# Polkadot - from scratch
+
 In this section, you will learn about Polkadot from scratch.
 
 Polkadot is an open-source and next-gen blockchain protocol that helps to  connect multiple blockchains. It helps to build our customizable blockchains in  the Polkadot network. It is a project of Web3 Foundation from Zug, the crypto valley of Switzerland,  and later contracted by UK-based Parity technologies to develop and maintain  the Polkadot network. Dr.Gavin Wood co-founded the Polkadot project, an former CTO and one of the original co-founders of the Ethereum Foundation. He is also the CEO of Parity  Technologies. The official whitepaper was launched in 2016 and made a successful $145  million fundraising in 2017. 
